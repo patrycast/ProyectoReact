@@ -1,0 +1,6 @@
+.nav{
+    width: 100vw;
+    height:90px;
+    background-color: red;
+    display: flex;
+  }
