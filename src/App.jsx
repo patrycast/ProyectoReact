@@ -1,5 +1,6 @@
 import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer'
+import ListadoPet from './components/ListadoPet'
 import './App.css'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <h1>app</h1>
       <Header/>
+        <ListadoPet/>
       <Footer/>
      
     </>
